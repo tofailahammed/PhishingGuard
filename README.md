@@ -7,8 +7,7 @@
 **PhishingGuard** is a robust Cyber Security tool designed to detect malicious phishing URLs in real-time. It uses Machine Learning algorithms to analyze URL patterns and protect users from cyber attacks.
 
  🚀 Live Demo
-**[Click Here to Try the App](https://phishingguard-bjqqraavmthh4rk2ej6qe6.streamlit.app/)** *(Link will work after deployment)*
-
+**[Click Here to Try the App](https://phishingguard-bjqqraavmthh4rk2ej6qe6.streamlit.app/)** 
 📸 Features
 - **Real-Time Scanning:** Instant analysis of URLs.
 - **Threat Detection:** Identifies suspicious keywords and patterns.
